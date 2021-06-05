@@ -39,6 +39,7 @@ html, body {
   h1 span:nth-child(6) { animation-delay: .5s; }
   h1 span:nth-child(7) { animation-delay: .6s; }
   h1 span:nth-child(8) { animation-delay: .7s; }
+  h1 span:nth-child(9) { animation-delay: .8s; }
   
   @keyframes bounce {
     100% {
